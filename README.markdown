@@ -104,13 +104,13 @@ Para solicitar permissão de uso ou uma versão adaptada para outra instituiçã
 
 - Desenvolvimento: Mefema Systems  
 - Design e conteúdo baseado no Colégio MEFEMA Systems Mozambique  
-- Mantenedor do repositório: [teu nome / @teu-user]
+- Mantenedor do repositório: [mefemasys / @mefemasys]
 
 ## Contactos do Colégio MEFEMA Systems (para referência)
 
-- Endereço: Av. mefemasys, Expansão, Mozambique, Moçambique  
-- Telefone: +258 85 200 2003 | +258 85 270 0027  
-- Email: colegioMEFEMA Systems.co@gmail.com  
-- Matrículas abertas para 2026
+- Endereço: Moçambique  
+- Telefone: 
+- Email: comercial@mefemasys.co.mz
+- 
 
 ---
