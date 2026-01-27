@@ -6,41 +6,39 @@ get_part('header');
 ?>
     <main class="max-w-7xl mx-auto bg-white dark:bg-gray-900 shadow-2xl overflow-hidden min-h-screen">
         
-        <section id="inicio" class="pt-32 pb-20 md:pt-40 md:pb-32 hero-gradient text-white relative">
-            <div class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')]"></div>
-            <div class="max-w-6xl mx-auto px-6 relative">
-                <div class="grid md:grid-cols-2 gap-12 items-center">
-                    <div class="space-y-8 text-center md:text-left">
-                        <span class="inline-block px-4 py-1 bg-white/20 rounded-md text-sm font-semibold tracking-wide backdrop-blur-sm">MATRÍCULAS ABERTAS PARA 2026</span>
-                        <h1 class="text-5xl md:text-6xl font-extrabold leading-tight">
-                            Construindo o <span class="text-emerald-300">Futuro</span> hoje.
-                        </h1>
-                        <p class="text-lg text-emerald-50 text-balance opacity-90">
-                            O Colégio MEFEMA Systems em Mozambique oferece um ambiente de excelência, onde a inovação pedagógica e os valores humanos se unem para formar cidadãos globais.
-                        </p>
-                        <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-                            <a href="#admissoes" class="bg-white text-[#1B8B6F] px-8 py-3 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all flex items-center justify-center gap-2">
-                                Quero me inscrever <i data-lucide="arrow-right" class="w-5 h-5"></i>
-                            </a>
-                            <a href="#sobre" class="border-2 border-white/30 hover:bg-white/10 px-8 py-3 rounded-lg font-bold text-lg transition-all text-center">
-                                Conhecer o Colégio
-                            </a>
-                        </div>
-                    </div>
-                    <div class="hidden md:block relative">
-                        <div class="w-full aspect-square bg-emerald-400/20 rounded-xl border border-white/20 p-4">
-                            <div class="w-full h-full bg-white/10 rounded-lg flex items-center justify-center overflow-hidden">
-                                 <div class="text-center p-8">
-                                    <i data-lucide="graduation-cap" class="w-24 h-24 mx-auto mb-4 opacity-50"></i>
-                                    <p class="text-sm font-medium italic">"Excelência no ensino em Mozambique"</p>
-                                 </div>
-                            </div>
-                        </div>
+      <section id="inicio" class="pt-32 pb-20 md:pt-40 md:pb-32 bg-[#1B8B6F] text-white relative">
+    <div class="max-w-6xl mx-auto px-6 relative">
+        <div class="grid md:grid-cols-2 gap-12 items-center">
+            <div class="space-y-8 text-center md:text-left">
+                <span class="inline-block px-4 py-1 bg-white/20 rounded-md text-sm font-semibold tracking-wide backdrop-blur-sm">MATRÍCULAS ABERTAS PARA 2026</span>
+                <h1 class="text-5xl md:text-6xl font-extrabold leading-tight">
+                    Construindo o <span class="text-emerald-300">Futuro</span> hoje.
+                </h1>
+                <p class="text-lg text-emerald-50 text-balance opacity-90">
+                    O Colégio MEFEMA Systems em Moçambique oferece um ambiente de excelência, onde a inovação pedagógica e os valores humanos se unem para formar cidadãos globais.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
+                    <a href="#admissoes" class="bg-white text-[#1B8B6F] px-8 py-3 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all flex items-center justify-center gap-2">
+                        Quero inscrever-me <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                    </a>
+                    <a href="#sobre" class="border-2 border-white/30 hover:bg-white/10 px-8 py-3 rounded-lg font-bold text-lg transition-all text-center">
+                        Conhecer o Colégio
+                    </a>
+                </div>
+            </div>
+            <div class="hidden md:block relative">
+                <div class="w-full aspect-square bg-emerald-400/20 rounded-xl border border-white/20 p-4">
+                    <div class="w-full h-full bg-white/10 rounded-lg flex items-center justify-center overflow-hidden">
+                         <div class="text-center p-8">
+                            <i data-lucide="graduation-cap" class="w-24 h-24 mx-auto mb-4 opacity-50"></i>
+                            <p class="text-sm font-medium italic">"Excelência no ensino em Moçambique"</p>
+                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-
+        </div>
+    </div>
+</section>
         <section class="py-16 bg-white dark:bg-gray-900">
             <div class="max-w-6xl mx-auto px-6">
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
